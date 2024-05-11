@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Parivaar-Patrika.git/static/css/main.9c8781eb.css",
+    "main.js": "/Parivaar-Patrika.git/static/js/main.fb42215d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Parivaar-Patrika.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/Double Ring@1x-1.0s-200px-200px.gif": "/Parivaar-Patrika.git/static/media/Double Ring@1x-1.0s-200px-200px.79a7d6d7d80e5130f2d6.gif",
+    "static/media/logo-no-background.svg": "/Parivaar-Patrika.git/static/media/logo-no-background.6e3d35eeec7573158588.svg",
+    "index.html": "/Parivaar-Patrika.git/index.html",
+    "main.9c8781eb.css.map": "/Parivaar-Patrika.git/static/css/main.9c8781eb.css.map",
+    "main.fb42215d.js.map": "/Parivaar-Patrika.git/static/js/main.fb42215d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Parivaar-Patrika.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8781eb.css",
+    "static/js/main.fb42215d.js"
+  ]
+}
